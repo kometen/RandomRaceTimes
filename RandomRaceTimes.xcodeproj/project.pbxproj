@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		48F98523199A08B400134DF9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F98522199A08B400134DF9 /* main.swift */; };
+		48F9852A199A104300134DF9 /* RandomRaceTimesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F98529199A104300134DF9 /* RandomRaceTimesModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		48F9851F199A08B400134DF9 /* RandomRaceTimes */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RandomRaceTimes; sourceTree = BUILT_PRODUCTS_DIR; };
 		48F98522199A08B400134DF9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		48F98529199A104300134DF9 /* RandomRaceTimesModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RandomRaceTimesModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				48F98522199A08B400134DF9 /* main.swift */,
+				48F98529199A104300134DF9 /* RandomRaceTimesModel.swift */,
 			);
 			path = RandomRaceTimes;
 			sourceTree = "<group>";
@@ -118,6 +121,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48F9852A199A104300134DF9 /* RandomRaceTimesModel.swift in Sources */,
 				48F98523199A08B400134DF9 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -10,3 +10,5 @@ import Foundation
 
 println("Hello, World!")
 
+let r = RandomRaceTimesModel(interval: 15, datestring: "28-02-2014 13:00:00", numberOfRaceTimes: 100)
+r.showRaceTimes()
